@@ -34,3 +34,5 @@ def useless_operation():
 
     useless_sum = sum(random_numbers) * len(current_time)
     print(f"Useless Sum: {useless_sum}")
+
+#adding some comments
