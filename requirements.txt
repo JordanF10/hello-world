@@ -1,0 +1,5 @@
+Django==2.2.24
+pytz==2025.2
+sqlparse==0.5.3
+pycel==1.0b22
+bentoml==1.4.7
